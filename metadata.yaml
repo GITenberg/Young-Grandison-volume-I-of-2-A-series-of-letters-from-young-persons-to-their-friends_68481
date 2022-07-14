@@ -1,0 +1,38 @@
+_repo: Young-Grandison-volume-I-of-2-A-series-of-letters-from-young-persons-to-their-friends_68481
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wollstonecraft, Mary
+    aliases:
+    - Cresswick, Mr.
+    - Godwin, Mary Wollstonecraft
+    birthdate: 1759
+    deathdate: 1797
+    gutenberg_agent_id: '84'
+    url: http://www.gutenberg.org/2009/agents/84
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Wollstonecraft
+creator:
+  author:
+    agent_name: Cambon, Madame de
+    gutenberg_agent_id: '54789'
+    url: http://www.gutenberg.org/2009/agents/54789
+description: ''
+gutenberg_issued: '2022-07-09'
+identifiers:
+  gutenberg: '68481'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/100123395
+pgterms:marc905: 20201220224841cambon
+pgterms:marc906: '1790'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United Kingdom :J. Johnson,1790.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Young Grandison, volume I (of 2): A series of letters from young persons to
+  their friends'
+url: http://www.gutenberg.org/ebooks/68481
