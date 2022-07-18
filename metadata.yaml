@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '84'
     url: http://www.gutenberg.org/2009/agents/84
     wikipedia: https://en.wikipedia.org/wiki/Mary_Wollstonecraft
+covers:
+- cover_type: archival
+  image_path: 68481-h/images/cover.jpg
 creator:
   author:
     agent_name: Cambon, Madame de
     gutenberg_agent_id: '54789'
     url: http://www.gutenberg.org/2009/agents/54789
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68481#Young-Grandison-volume-I-of-2-A-series-of-letters-from-young-persons-to-their-friends
 gutenberg_issued: '2022-07-09'
 identifiers:
   gutenberg: '68481'
